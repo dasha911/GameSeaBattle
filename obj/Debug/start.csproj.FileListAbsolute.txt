@@ -1,0 +1,8 @@
+C:\c#\start\start\start\start\bin\Debug\start.exe.config
+C:\c#\start\start\start\start\bin\Debug\start.exe
+C:\c#\start\start\start\start\bin\Debug\start.pdb
+C:\c#\start\start\start\start\obj\Debug\start.csproj.AssemblyReference.cache
+C:\c#\start\start\start\start\obj\Debug\start.csproj.SuggestedBindingRedirects.cache
+C:\c#\start\start\start\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\c#\start\start\start\start\obj\Debug\start.exe
+C:\c#\start\start\start\start\obj\Debug\start.pdb
